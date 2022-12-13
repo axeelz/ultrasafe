@@ -12,10 +12,6 @@ Le centre de contrôle présent sur le site permet l'activation et la désactiva
 - base de données MariaDB
 - maquettes réalisées sur Figma
 
-### Le site est disponible [ici](https://ultrasafe.herokuapp.com/) 🔗
-
-> Mais le centre de contôle n'est plus utilisable puisque l'installation des capteurs a été retirée depuis
-
 ## Vue d'ensemble
 
 ### [Vidéo de démonstration](https://youtu.be/jChisKLfH24)
